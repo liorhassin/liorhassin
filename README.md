@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ## 🔭 Currently Working On
 
 - **Full-Stack Learning:** Actively studying advanced full-stack concepts including **GraphQL**, **Serverless Architectures**, and **Microservices**. Exploring how to integrate these technologies into new projects and contributing to open-source projects.
-- **RadiantEcho:** My own implementation of a game engine for future projects. [Link to project](https://github.com/liorhassin/RadiantEcho)
+- **RadiantEcho:** My own implementation of a game engine for future projects [RadiantEcho](https://github.com/liorhassin/RadiantEcho)
 
 ## 🛠️ Technologies and Tools
 
