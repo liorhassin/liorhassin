@@ -30,7 +30,7 @@ I am constantly exploring game architecture, immersive mechanics, and engine log
 ## 🛠️ Technologies and Tools
 
 - **Core & Game Dev:**
-  - ![Unity](https://img.shields.io/badge/-Unity-100000?logo=unity&logoColor=ffffff) | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=ffffff) | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=ffffff)
+  - ![Unity](https://img.shields.io/badge/-Unity-9a9fa7?logo=unity&logoColor=57626b) | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=ffffff) | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=ffffff)
 
 - **Languages:**
   - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=ffffff) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=ffffff) | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=ffffff) | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=ffffff)
