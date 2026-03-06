@@ -42,7 +42,7 @@ I am constantly exploring game architecture, immersive mechanics, and engine log
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=ffffff) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=ffffff) | ![SQL](https://img.shields.io/badge/-SQL-000000?logo=sqlite&logoColor=ffffff)
 
 - **Tools & IDEs:**
-  - ![Visual Studio](https://img.shields.io) | ![VS Code](https://img.shields.io) | ![IntelliJ IDEA](https://img.shields.io) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=ffffff)
+  - [![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)](#) | [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#) | [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) | [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=ffffff)
 
 ## 📫 How to Reach Me
 
